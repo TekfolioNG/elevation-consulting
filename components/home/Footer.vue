@@ -125,7 +125,7 @@
             </button>
             <div class="text-gray-400 text-sm">
               Design & Development by
-              <a href="https://tekfol.io" target="_blank" rel="noopener noreferrer"
+              <a href="https://tekfolio.ng" target="_blank" rel="noopener noreferrer"
                 class="text-[#0077AA] hover:text-white transition-colors duration-200">
                 Tekfolio
               </a>
